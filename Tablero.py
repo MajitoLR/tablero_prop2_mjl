@@ -1,7 +1,7 @@
 import streamlit as at
 from streamlit_drawable_canvas import st_canvas
 
-st.title("🎨 Lienzo de Inspiración")
+  st.title("🎨 Lienzo de Inspiración")
 
 with st.sidebar:
   st.subheader("Propiedades del Tablero")
